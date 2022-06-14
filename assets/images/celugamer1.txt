@@ -1,0 +1,20 @@
+Celular desbloqueado de fabrica (nunca bloqueado).
+Color negro. Dual SIM (Nano-SIM, dual stand-by).
+4G LTE bandas 1, 3, 4, 5, 7, 28 y más. Apto para todas las compañías.
+Sistema Android 10.
+Procesador Octa-core (1x2.84 GHz Kryo 585 & 3x2.42 GHz Kryo 585 & 4x1.80 GHz Kryo 585).
+128GB de almacenamiento, 8GB RAM.
+Pantalla AMOLED, 90Hz, HDR10+ de 6.67 pulgadas 1080 x 2400 pixeles de resolución.
+Cámara Triple:
+64 MP, f/1.8, 26mm (wide), 1/1.72", 0.8µm, PDAF
+13 MP, f/2.3, (ultrawide)
+5 MP, f/2.2, (depth)
+Video Ultra HD 2160p a 60 cuadros por segundo.
+Cámara secundaria de 20 MP, f/2.2, (wide), 1/3", 0.9µm, Full HD.
+Wi-Fi 802.11 a/b/g/n/ac/6, dual-band, WiFi Direct, hotspot.
+GPS con soporte para A-GPS
+Batería Li-Po 4720 mAh.
+
+Se incluyen los siguientes accesorios:
+CARGADOR
+MANUAL
